@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "data (things)"
+    },
+    "description": "Convert Bubble Files into a unique zip file downloaded onto the user's computer.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1627663392762x114665457510132240/zip.png",
+    "license": "open_source",
+    "name": "Zip Files",
+    "sa_node_version": 18
+}

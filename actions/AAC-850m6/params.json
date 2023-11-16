@@ -1,0 +1,25 @@
+{
+    "category": "plugins",
+    "display": "Zip files",
+    "fields": {
+        "AAD": {
+            "caption": "Files to Zip",
+            "doc": "List of Bubble files urls",
+            "editor": "DynamicValue",
+            "is_list": true,
+            "name": "urls",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "Result File Name",
+            "default_val": "example",
+            "doc": "Exporte file name without extension ",
+            "editor": "DynamicValue",
+            "name": "filename",
+            "rank": 1,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}
