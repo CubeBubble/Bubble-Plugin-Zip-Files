@@ -3,20 +3,20 @@
     "display": "Zip files",
     "fields": {
         "AAD": {
-            "caption": "Files to Zip",
-            "doc": "List of Bubble files urls",
+            "caption": "File Urls",
+            "doc": "List of files urls",
             "editor": "DynamicValue",
             "is_list": true,
-            "name": "urls",
+            "name": "fileUrls",
             "rank": 0,
             "value": "text"
         },
         "AAE": {
-            "caption": "Result File Name",
+            "caption": "Directory Name",
             "default_val": "example",
-            "doc": "Exporte file name without extension ",
+            "doc": "Directory name",
             "editor": "DynamicValue",
-            "name": "filename",
+            "name": "directory",
             "rank": 1,
             "value": "text"
         }
